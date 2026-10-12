@@ -1,0 +1,31 @@
+{
+  "brand": {
+    "ko": "벨벳럽",
+    "en": "VelvetRub",
+    "slogan": "집까지 가는 길을 먼저 재어 둡니다"
+  },
+  "siteUrl": "https://velvetrub.netlify.app",
+  "locale": "ko_KR",
+  "tel": "050-8202-4752",
+  "telRaw": "05082024752",
+  "telLabel": "예약 문의",
+  "telNote": "안심번호",
+  "hours": "24시간 연중무휴",
+  "pay": "후불제",
+  "arrive": "접수 뒤 30~50분",
+  "naverVerification": "",
+  "rssTitle": "벨벳럽 방문 기록",
+  "business": {
+    "name": "벨벳럽",
+    "owner": "",
+    "regNo": "",
+    "address": "",
+    "privacyOfficer": "",
+    "email": "",
+    "note": "사업자 정보는 확정되는 대로 이 항목만 채우면 푸터·스키마에 함께 반영된다. 비워 두면 해당 줄은 출력하지 않는다."
+  },
+  "coverage": {
+    "sido": ["강원", "충북", "충남", "전북", "전남"]
+  },
+  "indexNowKey": "901014147bd48dee808c50902949772f"
+}
